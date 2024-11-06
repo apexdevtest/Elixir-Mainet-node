@@ -1,1 +1,1 @@
-just run comd and enjoy elixir mainnet
+just run cmd and enjoy elixir mainnet
